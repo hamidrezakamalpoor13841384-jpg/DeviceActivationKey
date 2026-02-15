@@ -16,5 +16,11 @@
         "key": "Aboly",
         "expirydate": "15-06-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b6874e9426210689",
+        "key": "Xit6767",
+        "expirydate": "22-06-2025",
+        "Allowoffline": false
     }
 ]
