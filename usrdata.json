@@ -16,5 +16,11 @@
         "key": "TEST",
         "expirydate": "17-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5216240a598547e9",
+        "key": "ABOLY",
+        "expirydate": "15-06-2030",
+        "Allowoffline": false
     }
 ]
