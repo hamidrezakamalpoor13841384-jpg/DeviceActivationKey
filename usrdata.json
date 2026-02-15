@@ -1,4 +1,4 @@
-[
+u[
     {
         "device_id": "device123",
         "key": "key12345",
@@ -13,7 +13,7 @@
     },
     {
         "device_id": "5216240a598547e9",
-        "key": "TAKAVARTV",
+        "key": "keyTAKAVARTV",
         "expirydate": "20-07-2026",
         "Allowoffline": false
 ]
