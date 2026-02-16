@@ -28,5 +28,11 @@
         "key": "ABOL",
         "expirydate": "23-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "70b66ccd703a2ab4",
+        "key": "usertest",
+        "expirydate": "17-06-2025",
+        "Allowoffline": false
     }
 ]
